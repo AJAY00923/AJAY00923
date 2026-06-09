@@ -5,8 +5,6 @@
 ### AI Engineer · LLM Systems · Backend Engineering
 
 [![Email](https://img.shields.io/badge/Email-ajaygopavrapu143%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ajaygopavrapu143@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/ajaygopavarapu/))]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()]
 [![Location](https://img.shields.io/badge/Location-Chicago%2C%20IL-green?style=for-the-badge&logo=google-maps)]()
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge)]()
 
